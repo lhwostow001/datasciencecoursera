@@ -3,7 +3,7 @@
 
 **Data Collection Description**  
 This data set analysis was in support of a human activity recognition project (see footnote 1).
-Data was collected from a group of 30 volunteers performing six activities (e.g. walking, standing).
+Data was collected from a group of 30 volunteers performing six activities (e.g. walking, standing) using accelerometer and gyroscope sensors.
 
 **Variables**  
 Subject : the code number for the 30 volunteers  
