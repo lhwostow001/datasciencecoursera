@@ -7,7 +7,7 @@ Data was collected from a group of 30 volunteers performing six activities (e.g.
 
 **Variables**  
 Subject : the code number for the 30 volunteers  
-Activity : one of six activities the volunteers performed   
+Activity : one of six activities the volunteers performed (walking, walking upstairs, walking downstairs, sitting, standing, laying)   
 tBodyAcc-mean()-X : these variables are the mean values for body accelerometer measurements on 3 axis  
 tBodyAcc-mean()-Y  
 tBodyAcc-mean()-Z  
