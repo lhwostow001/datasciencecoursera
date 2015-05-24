@@ -1,7 +1,9 @@
 # Getting and Cleaning Data, Project Readme file
 ## This document describes how the script works
 
-There are five sections of the script  
+The script run_analysis.R will create a tidy data set that contains the average for a series of measurements collected from 30 volunteers performing certain activiites (e.g., walking, standing, laying).
+
+There are five sections of the script:  
 1. Get the data files  
 2. Merge the data files  
 3. Create a subset of the data  
