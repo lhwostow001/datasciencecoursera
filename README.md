@@ -1,12 +1,12 @@
 # Getting and Cleaning Data, Project Readme file
 ## This document describes how the script works
 
-There are five sections of the script
-1. Get the data files
-2. Merge the data files
-3. Create a subset of the data
-4. Appropriately label the data
-5. Create a tidy data set
+There are five sections of the script  
+1. Get the data files  
+2. Merge the data files  
+3. Create a subset of the data  
+4. Appropriately label the data  
+5. Create a tidy data set  
 
 In section 1, the script reads in three files that will be used to create the training data set. The first file is the description of 
 the features, or in other words the column heading.  The second file contains the labels for the rows.  And the third file contains the actual observation data. The three files ares used to create the training data frame.  The same process is used to create the test data frame.
