@@ -46,30 +46,30 @@ tBodyGyroMag-mean() : the mean of the body gyroscope magnitude
 tBodyGyroMag-std() : the standard deviation of the body gyroscope magnitude  
 tBodyGyroJerkMag-mean() : the mean of the body gyroscope jerk magnitude  
 tBodyGyroJerkMag-std() : the standard deviation of the body gyroscope jerk magnitude  
-fBodyAcc-mean()-X : 
-fBodyAcc-mean()-Y
-fBodyAcc-mean()-Z
-fBodyAcc-std()-X
-fBodyAcc-std()-Y
-fBodyAcc-std()-Z
-fBodyAccJerk-mean()-X
-fBodyAccJerk-mean()-Y
-fBodyAccJerk-mean()-Z
-fBodyAccJerk-std()-X
-fBodyAccJerk-std()-Y
-fBodyAccJerk-std()-Z
-fBodyGyro-mean()-X
-fBodyGyro-mean()-Y
-fBodyGyro-mean()-Z
-fBodyGyro-std()-X
-fBodyGyro-std()-Y
-fBodyGyro-std()-Z
-fBodyAccMag-mean()
-fBodyAccMag-std()
-fBodyBodyGyroMag-mean()
-fBodyBodyGyroMag-std()
-fBodyBodyGyroJerkMag-mean()
-fBodyBodyGyroJerkMag-std()
+fBodyAcc-mean()-X : the fast fourier transform of the body accelerometer mean for 3 axis  
+fBodyAcc-mean()-Y  
+fBodyAcc-mean()-Z  
+fBodyAcc-std()-X : the fast fourier transform of the body accelerometer standard deviation for 3 axis  
+fBodyAcc-std()-Y  
+fBodyAcc-std()-Z  
+fBodyAccJerk-mean()-X : the fast fourier transform of the body accelerometer jerk mean for 3 axis  
+fBodyAccJerk-mean()-Y  
+fBodyAccJerk-mean()-Z  
+fBodyAccJerk-std()-X : the fast fourier transform of the body accelerometer jerk standard deviation for 3 axis  
+fBodyAccJerk-std()-Y  
+fBodyAccJerk-std()-Z  
+fBodyGyro-mean()-X : the fast fourier transform of the body gyroscope mean for 3 axis  
+fBodyGyro-mean()-Y  
+fBodyGyro-mean()-Z  
+fBodyGyro-std()-X : the fast fourier transform of the body gyroscope standard deviation for 3 axis  
+fBodyGyro-std()-Y  
+fBodyGyro-std()-Z  
+fBodyAccMag-mean() : the fast fourier transform of the body accelerometer magnitude mean   
+fBodyAccMag-std() : the fast fourier transform of the body accelerometer magnitude standard deviation  
+fBodyBodyGyroMag-mean() : the fast fourier transform of the body gyroscope magnitude mean   
+fBodyBodyGyroMag-std() :  the fast fourier transform of the body gyroscope magnitude standard deviation   
+fBodyBodyGyroJerkMag-mean() : the fast fourier transform of the body gyroscope jerk magnitude mean   
+fBodyBodyGyroJerkMag-std() : the fast fourier transform of the body gyroscope jerk magnitude standard deviation   
 
 **Footnote**
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
