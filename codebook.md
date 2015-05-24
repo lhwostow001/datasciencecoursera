@@ -1,5 +1,5 @@
 # Getting and Cleaning Data Course
-## Codebook for the project
+## Codebook for the Project
 
 **Data Collection Description**  
 This data set analysis was in support of a human activity recognition project (see footnote 1).
@@ -71,5 +71,5 @@ fBodyBodyGyroMag-std() :  the fast fourier transform of the body gyroscope magni
 fBodyBodyGyroJerkMag-mean() : the fast fourier transform of the body gyroscope jerk magnitude mean   
 fBodyBodyGyroJerkMag-std() : the fast fourier transform of the body gyroscope jerk magnitude standard deviation   
 
-**Footnote**
+**Footnote**  
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
