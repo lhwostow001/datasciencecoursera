@@ -8,31 +8,31 @@ Data was collected from a group of 30 volunteers performing six activities (e.g.
 **Variables**  
 Subject : the code number for the 30 volunteers  
 Activity : one of six activities the volunteers performed   
-tBodyAcc-mean()-X : the following variables are the mean values for body accelerometer measurements on 3 axis  
+tBodyAcc-mean()-X : these variables are the mean values for body accelerometer measurements on 3 axis  
 tBodyAcc-mean()-Y  
 tBodyAcc-mean()-Z  
-tBodyAcc-std()-X : the following variables are standard deviation values for body accelerometer measurements on 3 axis  
+tBodyAcc-std()-X : these variables are standard deviation values for body accelerometer measurements on 3 axis  
 tBodyAcc-std()-Y  
 tBodyAcc-std()-Z  
-tGravityAcc-mean()-X : the following variables are mean values for gravity accelerometer measurements on 3 axis  
+tGravityAcc-mean()-X : these variables are mean values for gravity accelerometer measurements on 3 axis  
 tGravityAcc-mean()-Y  
 tGravityAcc-mean()-Z  
-tGravityAcc-std()-X : the following variables are standard deviation values for gravity accelerometer measurements on 3 axis  
+tGravityAcc-std()-X : these variables are standard deviation values for gravity accelerometer measurements on 3 axis  
 tGravityAcc-std()-Y  
 tGravityAcc-std()-Z  
-tBodyAccJerk-mean()-X : the following variables are mean values for body accelerometer jerk measurements on 3 axis  
+tBodyAccJerk-mean()-X : these variables are mean values for body accelerometer jerk measurements on 3 axis  
 tBodyAccJerk-mean()-Y  
 tBodyAccJerk-mean()-Z  
-tBodyAccJerk-std()-X : the following variables are standard deviation values for body accelerometer jerk measurements on 3 axis  
+tBodyAccJerk-std()-X : these variables are standard deviation values for body accelerometer jerk measurements on 3 axis  
 tBodyAccJerk-std()-Y  
 tBodyAccJerk-std()-Z  
-tBodyGyro-mean()-X : the following variables are mean values for body gyroscope measurements on 3 axis  
+tBodyGyro-mean()-X : these variables are mean values for body gyroscope measurements on 3 axis  
 tBodyGyro-mean()-Y  
 tBodyGyro-mean()-Z  
-tBodyGyro-std()-X : the following variables are standard deviation values for body gyroscope measurements on 3 axis  
+tBodyGyro-std()-X : these variables are standard deviation values for body gyroscope measurements on 3 axis  
 tBodyGyro-std()-Y  
 tBodyGyro-std()-Z  
-tBodyGyroJerk-mean()-X : the following variables are mean values for body gyroscope jerk measurements on 3 axis  
+tBodyGyroJerk-mean()-X : these variables are mean values for body gyroscope jerk measurements on 3 axis  
 tBodyGyroJerk-mean()-Y  
 tBodyGyroJerk-mean()-Z  
 tBodyGyroJerk-std()-X
