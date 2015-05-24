@@ -23,7 +23,7 @@ tGravityAcc-std()-Z
 tBodyAccJerk-mean()-X : these variables are mean values for body accelerometer jerk measurements on 3 axis  
 tBodyAccJerk-mean()-Y  
 tBodyAccJerk-mean()-Z  
-tBodyAccJerk-std()-X : these variables are standard deviation values for body accelerometer jerk measurements on 3 axis  
+tBodyAccJerk-std()-X : these variables are standard deviation values for body accelerometer jerk measurements  
 tBodyAccJerk-std()-Y  
 tBodyAccJerk-std()-Z  
 tBodyGyro-mean()-X : these variables are mean values for body gyroscope measurements on 3 axis  
@@ -35,18 +35,18 @@ tBodyGyro-std()-Z
 tBodyGyroJerk-mean()-X : these variables are mean values for body gyroscope jerk measurements on 3 axis  
 tBodyGyroJerk-mean()-Y  
 tBodyGyroJerk-mean()-Z  
-tBodyGyroJerk-std()-X
-tBodyGyroJerk-std()-Y
-tBodyGyroJerk-std()-Z
-tBodyAccMag-mean()
-tBodyAccMag-std()
-tBodyAccJerkMag-mean()
-tBodyAccJerkMag-std()
-tBodyGyroMag-mean()
-tBodyGyroMag-std()
-tBodyGyroJerkMag-mean()
-tBodyGyroJerkMag-std()
-fBodyAcc-mean()-X
+tBodyGyroJerk-std()-X : these variables are standard deviation values for body gyroscope jerk measurements on 3 axis
+tBodyGyroJerk-std()-Y  
+tBodyGyroJerk-std()-Z  
+tBodyAccMag-mean() : the mean of the body accelerometer magnitude  
+tBodyAccMag-std() : the standard deviation of the body accelerometer magnitude  
+tBodyAccJerkMag-mean() : the mean of the body accelerometer jerk magnitude  
+tBodyAccJerkMag-std() : the standard deviation of the body accelerometer jerk magnitude  
+tBodyGyroMag-mean() : the mean of the body gyroscope magnitude  
+tBodyGyroMag-std() : the standard deviation of the body gyroscope magnitude  
+tBodyGyroJerkMag-mean() : the mean of the body gyroscope jerk magnitude  
+tBodyGyroJerkMag-std() : the standard deviation of the body gyroscope jerk magnitude  
+fBodyAcc-mean()-X : 
 fBodyAcc-mean()-Y
 fBodyAcc-mean()-Z
 fBodyAcc-std()-X
