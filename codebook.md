@@ -3,7 +3,7 @@
 
 **Data Collection Description**  
 This data set analysis was in support of a human activity recognition project (see footnote 1).
-Data was collected from a group of 30 volunteers performing six activities (e.g. walking, standing) using accelerometer and gyroscope sensors.
+Data was collected from a group of 30 volunteers wearing a smartphone on their waist while performing six activities (e.g. walking, standing).  The accelerometer and gyroscope in the smartphone was used to collect measurements.   All measurements are standardized and bounded within [-1,1].
 
 **Variables**  
 Subject : the code number for the 30 volunteers  
